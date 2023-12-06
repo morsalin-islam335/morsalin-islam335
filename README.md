@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @morsalin-islam335
 - 👀 I’m interested in Competitive Programming. Also I ve dedecated to real life project.
 - Programmig is my passion.
-- 🌱 I’m currently learning OOP with Python, Dijango
-- 💞️ I've learn C, C++, Data Structure and Algorithm. I have solved 200+ problem includinng leetcode, codingninja, codechief, codeforces,CSES, hackerrank and so on.
+- 🌱 I’m currently working Dijango with front-end project.
+- 💞️ I've learnt C, C++, Python, MySQL as database, Data Structure and Algorithm. I have solved 200+ problems includinng leetcode, codingninja, codechief, codeforces,CSES, hackerrank and so on.
 - 📫 How to reach me -> weshallovercome335@gmail.com
 
 <!---
