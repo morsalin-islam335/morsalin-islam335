@@ -15,8 +15,7 @@ I am a **Python Backend Developer** with expertise in **Django, Django Rest Fram
 - Launch a **web development agency** and explore **freelancing opportunities**.
 
 ## 🔥 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=morsalin-islam335&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=morsalin-islam335&theme=tokyonight&date_format=j+M[+Y]&background=0D1117)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morsalin-islam335&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
