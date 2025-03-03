@@ -1,21 +1,29 @@
 
-# Hi there 👋! This is MORSALIN ISLAM.
 <img src="https://github.com/morsalin-islam335/Blog-Project/blob/main/Screenshot%20(7).png" style="width:100%; height:600px; object-fit:cover; display:block;">
 
-I am a Python backend developer with a solid foundation in solving complex problems and a passion for learning and implementing new technologies.
+# Hi, I'm Morsalin Islam 👋
 
-- 🌱 I’m currently mastering advanced Django features, exploring React.js, and delving into cutting-edge backend frameworks.
+## About Me:
+I am a **Python Backend Developer** with expertise in **Django, Django Rest Framework (DRF), and React.js**. I have a strong foundation in **Data Structures and Algorithms (DSA)**, having solved over **1000 problems** on platforms like **LeetCode, CodeChef, and Codeforces**. 
 
-- 💬 Ask me about Python, Django, React.js, REST APIs, and competitive programming.
+### 🚀 My Goals for This Year:
+- Develop projects using **React.js, Next.js, and Django Rest Framework (DRF)**.
+- Collaborate on **industry-standard projects** with a team.
+- Achieve **2-3 star ratings on CodeChef**.
+- Earn multiple **HackerRank certifications** in front-end and back-end technologies.
+- Solve **200 problems on LeetCode**.
+- Launch a **web development agency** and explore **freelancing opportunities**.
 
-- ⚡ Fun fact: I have solved over 500 problems on platforms like LeetCode, CodeChef, and Codeforces.
+## 🔥 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=morsalin-islam335&theme=tokyonight)](https://git.io/streak-stats)
 
-## Skills and Experience:
 
-### Front-End Skills:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morsalin-islam335&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛠️ Tech Stack:
+
+### Frontend Skills:
 <p>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
@@ -34,16 +42,16 @@ I am a Python backend developer with a solid foundation in solving complex probl
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morsalin-islam335&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🌟 Recent Achievements:
+- 🏆 **Silver Badge on CodeChef**
+- 📜 **HackerRank Certificates** in **Python, Java, React, and JavaScript**
+- 🏗️ Built a **social media platform** called "**Friends Book**" with authentication, posts, comments, likes, and notifications.
+- 🎯 Working on a **web application for SPIT Club** (Institute's IT Club).
 
-<!— [![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=morsalin-islam335&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) —>
+## 🚀 Check out my deployed projects:
+- [Vaccination Management System](https://public-health.onrender.com)
 
-## Check out my deployed projects:
-
-- [Vaccination Management System](public-health.onrender.com)
-
-## Contact me or follow me:
-
+## 📫 Contact Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/morsalin-islam335) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/ProgrammerAndLearner/)
