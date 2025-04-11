@@ -11,7 +11,7 @@ I am a **Python Backend Developer** with expertise in **Django, Django Rest Fram
 - Collaborate on **industry-standard projects** with a team.
 - Achieve **2-3 star ratings on CodeChef**.
 - Earn multiple **HackerRank certifications** in front-end and back-end technologies.
-- Solve **200 problems on LeetCode**.
+- Solve **300+ problems from various online judge like leetcode, codingninjas, cses, codechef, codeforces**.
 - Launch a **web development agency** and explore **freelancing opportunities**.
 
 ## 🔥 GitHub Stats:
